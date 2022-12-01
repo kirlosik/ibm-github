@@ -3,5 +3,5 @@
 
 ## Update the file - lab task.
 
-Summary
+Summary:
 In this lab, I have learned how to create a new repository, add a new file, edit a file, upload a file, and commit my changes.
